@@ -1,0 +1,4 @@
+Žalgiris
+Daukantas, Simonas, 12, 15, 0
+Jasikevičius, Šarūnas, 23, 45, 0
+Sabonis, Arvydas, 23, 0, 56

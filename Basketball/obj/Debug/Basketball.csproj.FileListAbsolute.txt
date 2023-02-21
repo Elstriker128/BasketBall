@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Basketball\bin\Debug\Basketball.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Basketball\bin\Debug\Basketball.exe
+C:\Users\User\OneDrive\Desktop\VSP\Basketball\bin\Debug\Basketball.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Basketball\obj\Debug\Basketball.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Basketball\obj\Debug\Basketball.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Basketball\obj\Debug\Basketball.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Basketball\obj\Debug\Basketball.exe
+C:\Users\User\OneDrive\Desktop\VSP\Basketball\obj\Debug\Basketball.pdb
